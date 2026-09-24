@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://proplumbingeverett.com/sitemap.xml
