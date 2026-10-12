@@ -1,2 +1,29 @@
 # Cloudflare Pages resolves clean URLs and slug/index.html natively.
-# No redirects needed.
+
+# Blog slugs renamed to include the city (both slash forms)
+/blog/diy-drain-cleaning-what-works/ /blog/diy-drain-cleaning-what-works-everett-wa/ 301
+/blog/diy-drain-cleaning-what-works /blog/diy-drain-cleaning-what-works-everett-wa/ 301
+/blog/how-often-flush-water-heater/ /blog/how-often-flush-water-heater-everett-wa/ 301
+/blog/how-often-flush-water-heater /blog/how-often-flush-water-heater-everett-wa/ 301
+/blog/how-to-find-a-hidden-water-leak/ /blog/how-to-find-a-hidden-water-leak-everett-wa/ 301
+/blog/how-to-find-a-hidden-water-leak /blog/how-to-find-a-hidden-water-leak-everett-wa/ 301
+/blog/how-to-tell-if-you-have-galvanized-pipes/ /blog/how-to-tell-if-you-have-galvanized-pipes-everett-wa/ 301
+/blog/how-to-tell-if-you-have-galvanized-pipes /blog/how-to-tell-if-you-have-galvanized-pipes-everett-wa/ 301
+/blog/preparing-your-plumbing-for-winter/ /blog/preparing-your-plumbing-for-winter-everett-wa/ 301
+/blog/preparing-your-plumbing-for-winter /blog/preparing-your-plumbing-for-winter-everett-wa/ 301
+/blog/signs-you-need-a-whole-house-repipe/ /blog/signs-you-need-a-whole-house-repipe-everett-wa/ 301
+/blog/signs-you-need-a-whole-house-repipe /blog/signs-you-need-a-whole-house-repipe-everett-wa/ 301
+/blog/sump-pump-vs-french-drain/ /blog/sump-pump-vs-french-drain-everett-wa/ 301
+/blog/sump-pump-vs-french-drain /blog/sump-pump-vs-french-drain-everett-wa/ 301
+/blog/tankless-vs-tank-water-heater/ /blog/tankless-vs-tank-water-heater-mill-creek-wa/ 301
+/blog/tankless-vs-tank-water-heater /blog/tankless-vs-tank-water-heater-mill-creek-wa/ 301
+/blog/tree-roots-in-sewer-line/ /blog/tree-roots-in-sewer-line-everett-wa/ 301
+/blog/tree-roots-in-sewer-line /blog/tree-roots-in-sewer-line-everett-wa/ 301
+/blog/water-softener-vs-water-filter/ /blog/water-softener-vs-water-filter-everett-wa/ 301
+/blog/water-softener-vs-water-filter /blog/water-softener-vs-water-filter-everett-wa/ 301
+/blog/what-to-do-when-a-pipe-bursts/ /blog/what-to-do-when-a-pipe-bursts-everett-wa/ 301
+/blog/what-to-do-when-a-pipe-bursts /blog/what-to-do-when-a-pipe-bursts-everett-wa/ 301
+/blog/whole-house-repiping-cost-washington/ /blog/whole-house-repiping-cost-everett-wa/ 301
+/blog/whole-house-repiping-cost-washington /blog/whole-house-repiping-cost-everett-wa/ 301
+/blog/why-does-my-basement-flood-every-winter/ /blog/why-does-my-basement-flood-every-winter-everett-wa/ 301
+/blog/why-does-my-basement-flood-every-winter /blog/why-does-my-basement-flood-every-winter-everett-wa/ 301
