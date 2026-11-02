@@ -267,3 +267,9 @@ main h2 + p,main h3 + p{margin-bottom:14px;}
 .header-row{padding-left:32px;padding-right:32px;}
 @media (max-width:480px){.header-row{padding-left:16px;padding-right:16px;gap:12px;}.header-actions{gap:8px;}.header-actions .btn{padding:12px 14px;}}
 .source-note{font-size:.9rem;color:#5B564C;border-top:1px solid var(--color-border);padding-top:12px;margin-top:6px;}
+
+.footer-follow{margin-top:22px;}
+.social-list{display:flex;flex-wrap:wrap;gap:8px 16px;margin:0;padding:0;list-style:none;}
+.social-list li{margin:0;}
+.social-list a{color:#D8D4CA;text-decoration:underline;text-underline-offset:3px;}
+.social-list a:hover{color:#fff;}
