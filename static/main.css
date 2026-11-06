@@ -273,3 +273,7 @@ main h2 + p,main h3 + p{margin-bottom:14px;}
 .social-list li{margin:0;}
 .social-list a{color:#D8D4CA;text-decoration:underline;text-underline-offset:3px;}
 .social-list a:hover{color:#fff;}
+
+.nbhd-links{list-style:none;display:flex;flex-wrap:wrap;gap:10px;margin:14px 0 0;padding:0;}
+.nbhd-links a{display:inline-block;padding:10px 16px;border:1px solid var(--color-border);border-radius:4px;font-weight:600;text-decoration:none;}
+.nbhd-links a:hover{border-color:var(--color-steel);}
